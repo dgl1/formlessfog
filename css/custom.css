@@ -62,9 +62,9 @@
   background-size: cover;
   color: #fff;
 }
-.categories .section-description { 
+/*.categories .section-description { 
   margin-bottom: 4rem;
-}
+}*/
 
 /* Bigger than 550 */
 @media (min-width: 550px) {
