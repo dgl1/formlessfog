@@ -34,7 +34,7 @@
 .values {
   background-image: url('../images/weekend-fog-bg.jpg'); 
   background-size: cover;
-  color: #fff;
+  /*color: #fff;*/
   padding-bottom: 5rem;
 }
 .value-multiplier {
@@ -60,7 +60,7 @@
 .categories {
   background-image: url('..images/weekend-fog-bg.jpg');
   background-size: cover;
-  color: #fff;
+  /*color: #fff;*/
 }
 .categories .section-description { 
   margin-bottom: 4rem;
