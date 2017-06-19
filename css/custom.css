@@ -62,9 +62,9 @@
   background-size: cover;
   color: #fff;
 }
-.categories .section-description { 
+/*.categories .section-description { 
   margin-bottom: 4rem;
-}
+}*/
 
 
 /* Teaching
@@ -74,9 +74,9 @@
   background-size: cover;
   color: #fff;  
 }
-.teaching .section-description { 
+/*.teaching .section-description { 
   margin-bottom: 4rem;
-}
+}*/
 
 
 
@@ -87,9 +87,9 @@
   background-size: cover;
   color: #fff;   
 }
-.research .section-description { 
+/*.research .section-description { 
   margin-bottom: 4rem;
-}
+}*/
 
 
 /* Bigger than 550 */
