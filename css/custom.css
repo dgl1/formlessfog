@@ -34,7 +34,7 @@
 .values {
   background-image: url('../images/weekend-fog-bg.jpg'); 
   background-size: cover;
-  color: #fffff;
+  color: #fff;
   padding-bottom: 5rem;
 }
 .value-multiplier {
@@ -60,7 +60,7 @@
 .categories {
   background-image: url('../images/weekend-fog-bg.jpg');
   background-size: cover;
-  color: #fffff;
+  color: #fff;
 }
 .categories .section-description { 
   margin-bottom: 4rem;
@@ -72,7 +72,7 @@
 .teaching {
   background-image: url('../images/alpha-idea.jpg');
   background-size: cover;
-  color: #fffff;  
+  color: #fff;  
 }
 .teaching .section-description { 
   margin-bottom: 4rem;
@@ -85,7 +85,7 @@
 .research {
   background-image: url('../images/alpha-theory.jpg');
   background-size: cover;
-  color: #fffff;   
+  color: #fff;   
 }
 .research .section-description { 
   margin-bottom: 4rem;
