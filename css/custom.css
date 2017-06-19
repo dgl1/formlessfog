@@ -62,9 +62,35 @@
   background-size: cover;
   color: #fff;
 }
-/*.categories .section-description { 
+.categories .section-description { 
   margin-bottom: 4rem;
-}*/
+}
+
+
+/* Teaching
+–––––––––––––––––––––––––––––––––––––––––––––––––– */  
+.teaching {
+  background-image: url('../images/alpha-idea.jpg');
+  background-size: cover;
+  color: #fff;  
+}
+.teaching .section-description { 
+  margin-bottom: 4rem;
+}
+
+
+
+/* Research
+–––––––––––––––––––––––––––––––––––––––––––––––––– */  
+.research {
+  background-image: url('../images/alpha-theory.jpg');
+  background-size: cover;
+  color: #fff;   
+}
+.research .section-description { 
+  margin-bottom: 4rem;
+}
+
 
 /* Bigger than 550 */
 @media (min-width: 550px) {
@@ -125,6 +151,12 @@
     max-height: 472px;
   }
   .categories {
+    padding: 15rem 0 8rem;
+  }
+  .teaching {
+    padding: 15rem 0 8rem;
+  }
+  .research {
     padding: 15rem 0 8rem;
   }
 }
