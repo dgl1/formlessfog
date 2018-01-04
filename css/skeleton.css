@@ -166,7 +166,8 @@ a {
 	transition: background-color 0.2s;
 }
 a:hover {
-  color: #e7ff1a;
+  text-decoration: none;
+  border-bottom:#e7ff1a;
 }
 
 a.noborder {
