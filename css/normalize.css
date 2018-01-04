@@ -142,6 +142,7 @@ h1 {
  */
 
 mark {
+  background-color: transparent; 
   color: #000;
 }
 
