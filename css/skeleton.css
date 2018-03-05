@@ -170,14 +170,13 @@ a:hover {
   border-bottom: 1px solid gainsboro;
 }
 
-
-a.noborder {
+/* a.noborder {
   	border-bottom: none; 
   	background-color: transparent; 
   }
 a.noborder:Hover {
   	background-color: transparent; 
-  }
+  } */
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
