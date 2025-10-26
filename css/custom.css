@@ -57,11 +57,31 @@
 
 /* Categories
 –––––––––––––––––––––––––––––––––––––––––––––––––– */  
-.categories {
+.categories { 
+  background-image: url('../images/weekend-fog-bg.jpg'); 
+  background-size: cover; 
+  background-position: center center; 
+  background-repeat: no-repeat; 
+  position: relative; 
+  min-height: 100vh; 
+  display: flex; 
+  align-items: center; 
+  padding: 0; 
+  color: #FFF;
+}
+
+.categories::before { content: ""; position: absolute; inset: 0; background: rgba(0,0,0,0.32); z-index: 1; }
+
+.categories .container { position: relative; z-index: 2; }
+
+.hero-content { max-width: 540px; }
+
+
+/*.categories {
   background-image: url('../images/weekend-fog-bg.jpg');
   background-size: cover;
   color: #FFF ;
-}
+}*/
 /*.categories .section-description { 
   margin-bottom: 4rem;
 }*/
