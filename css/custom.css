@@ -214,3 +214,23 @@
     max-height: 570px;
   }
 }
+
+/* Focal point adjustments for cover backgrounds */
+@media (min-width: 1200px) { 
+  .categories, .teaching, .research { 
+    background-position: 35% 50%; 
+  } 
+} 
+
+@media (min-width: 900px) and (max-width: 1199px) { 
+  .categories, .teaching, .research { 
+  background-position: 40% 50%; 
+  } 
+} 
+
+@media (max-width: 600px) { 
+  .categories, .teaching, .research {
+    background-position: center top; 
+  } 
+}
+
