@@ -262,6 +262,5 @@
 [data-theme="dark"] .ff-panel{box-shadow:0 0 0 1px rgba(255,255,255,.04),0 12px 28px rgba(0,0,0,.6);}
 [data-theme="dark"] .ff-menu>summary{background:var(--paper);border-color:var(--line);}
 [data-theme="dark"] .ff-panel a{color:var(--ink);}
-/* [data-theme="dark"] .ff-icon{filter:invert(1) brightness(100%);} */ 
-/* makes your black PNG appear white */
+
 
