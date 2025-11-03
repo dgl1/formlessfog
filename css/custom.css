@@ -185,13 +185,13 @@
     max-height: 472px;
   }
   /* remove any .categories padding that would override full-viewport behaviour */
-  /* (previously: .categories { padding: 15rem 0 8rem; } ) */
+  /* (previously: .categories { padding: 15rem 0 8rem; } ) 
   .teaching {
     padding: 15rem 0 8rem;
   }
   .research {
     padding: 15rem 0 8rem;
-  }
+  } */
 }
 
 /* Bigger than 1000 */
